@@ -1,0 +1,1 @@
+var json__4 = {"type":"FeatureCollection","name":"_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ชื่�":"วิทยาลัยอาชีวศึกษาไทยเทคเอเชีย","ละต�":16.54608,"ลอง�":104.03615,"สัง�":"สำนักงานคณะกรรมการการอาชีวศึกษา"},"geometry":{"type":"Point","coordinates":[104.0361473,16.54607858]}}]}
